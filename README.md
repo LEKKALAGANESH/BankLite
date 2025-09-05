@@ -45,7 +45,7 @@ A comprehensive banking management system built in Python featuring account crea
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/banklite.git
+   git clone https://github.com/LEKKALAGANESH/BankLite.git
    cd banklite
    ```
 
